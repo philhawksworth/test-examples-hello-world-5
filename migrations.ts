@@ -1,2 +1,2 @@
 console.log("Running migration scripts...");
-console.log("...done. Onwards to the build and deploy!");
+console.log("...done. Ready to deploy!");
